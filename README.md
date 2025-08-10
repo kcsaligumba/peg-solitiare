@@ -28,9 +28,11 @@ Click to jump pegs, track your moves, and hit the reset button to start over.
 3. Open `src/Viewer.java` and click **Run**
 
 **Terminal**  
-Windows  
+
+Windows:  
 `javac -d out src\*.java`  
 `java -cp "out;resources" Viewer`  
-macOS/Linux  
+
+macOS/Linux:  
 `javac -d out src/*.java`  
 `java -cp "out:resources" Viewer`  
