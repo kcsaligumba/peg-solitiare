@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Viewer",
+      "request": "launch",
+      "mainClass": "Viewer",
+      "classPaths": [
+        "${workspaceFolder}/out",
+        "${workspaceFolder}/resources"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
