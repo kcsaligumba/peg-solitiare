@@ -3,7 +3,9 @@
 A simple, UIUC-themed **Peg Solitaire** game written in Java/Swing.  
 Click to jump pegs, track your moves, and hit the reset button to start over.
 
-> ![Preview](docs/screenshot.png)
+<p align="center">
+  <img src="./resources/game.png" alt="" width="520">
+</p>
 
 ---
 
